@@ -19,7 +19,7 @@ Feel free to explore my standards and boilerplates to see exactly how I work:
 
 ### 2. 🔒[Security & Compliance](./2-security-and-compliance/)
 *How I protect your data, intellectual property, and cloud environments.*
-* [Security Baselines](./2-security-and-compliance/security-standards.md)
+* [Security Baselines](./2-security-and-compliance/Security-Standards.md)
 *[Standard NDA](./2-security-and-compliance/nda-standard.md)
 * [Access Requirements](./2-security-and-compliance/access-requirements.md)
 
